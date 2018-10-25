@@ -1,0 +1,5 @@
+n1=int(input(''))
+HORA=int(input(''))
+R=float(input(''))
+salario=(HORA*R)
+print('NUMBER = {}''\nSALARY = U$ {:.2f}'.format(n1,salario))
